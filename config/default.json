@@ -1,0 +1,23 @@
+{
+    "Server": {
+        "host": "localhost",
+        "port": "3000"
+    },
+
+    "Mongo": {
+        "host": "tatooine.mongodb.umbler.com",
+        "port": "49673",
+        "db"  : "dbplano",
+        "user": "userplano",
+        "pswd": "senha-plan0"
+    },
+
+    "Session": {
+        "secret": "5",         
+        "duration": 24         
+    },
+
+    "Passwords": {
+        "salt": 10
+    }
+}
